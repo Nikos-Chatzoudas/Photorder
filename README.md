@@ -4,6 +4,9 @@ Photorder is a program that takes all the photos and videos from the "pdump" fil
 ## ⚙ Requirements
 ```bash
 pip install exifread
+
+```
+```bash
 pip install moviepy
 ```
 ## 🛠️ Usage
